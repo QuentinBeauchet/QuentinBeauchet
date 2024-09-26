@@ -1,4 +1,4 @@
-### Hi, i'm Quentin Beauchet, a french CS student in his 5th year.
+### Hi, i'm Quentin Beauchet, a french embedded software engineer.
 
 
 * <a href="https://github.com/QuentinBeauchet?tab=repositories">Main projects</a> 👨‍💻
